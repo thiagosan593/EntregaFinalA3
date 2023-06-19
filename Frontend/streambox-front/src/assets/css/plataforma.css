@@ -1,0 +1,25 @@
+.edit-botoes{
+    text-align: right;
+    margin-bottom: 1rem;
+}
+.edit-botoes .btn-novaPlataforma,
+.edit-botoes .btn-del {
+  margin-top: 1rem;
+  border: none;
+  padding: 0.4rem;
+  opacity: 0.8;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  width: 30%;
+
+}
+
+.edit-botoes .btn-novaPlataforma {
+  background-color: red;
+  color: white;
+  font-size: 1.2rem;
+  opacity: .8;
+}
+.edit-botoes .btn-novaPlataforma:hover{
+    opacity: 1;
+}
