@@ -1,0 +1,3 @@
+Obs:
+Pode ocorrer de o banco de dados não rodar, 
+por isso recomenda-se copiar o arquivo nesta pasta e subsistuir em data.
