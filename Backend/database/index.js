@@ -123,19 +123,19 @@ function insertplataformas() {
 function insertUsuario() {
     db.run("INSERT INTO usuario (nome, email, senha, tipo) VALUES (?, ?, ?, ?)", [
         "jefferson",
-        "jefferson@strembox.com",
+        "jefferson@straembox.com",
         "123",
         "A"
     ], 0);
     db.run("INSERT INTO usuario (nome, email, senha, tipo) VALUES (?, ?, ?, ?)", [
         "Thiago",
-        "thiago@strembox.com",
+        "thiago@straembox.com",
         "123",
         "A"
     ], 0);
     db.run("INSERT INTO usuario (nome, email, senha, tipo) VALUES (?, ?, ?, ?)", [
         "Maria",
-        "maria@strembox.com",
+        "maria@straembox.com",
         "123",
         "A"
     ], 0);
