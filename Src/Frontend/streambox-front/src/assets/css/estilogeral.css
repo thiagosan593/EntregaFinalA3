@@ -74,7 +74,7 @@ span#burger {
   padding: 10px;
   color: white !important;
   cursor: pointer;
-  z-index: 10;
+  /* z-index: 10; */
 }
 
 i {
@@ -114,6 +114,7 @@ menu > ul > li > a:hover {
   color: white;
 }
 .container{
+  margin-top: 2%;
   min-height: 20vh;
 }
 .container-card {
@@ -381,9 +382,9 @@ footer {
   }
 
   .logo img {
-    width: 40%;
-    margin-top: 0.2rem;
-    margin-left: 4%;
+    width: 67%;
+    margin-top: 0.4rem;
+    margin-left: 7%;
   }
 
   .container-filmes {
@@ -456,9 +457,9 @@ footer {
   }
 
   .logo img {
-    width: 40%;
-    margin-left: 6%;
-    margin-top: 0.3rem;
+    width: 60%;
+    margin-left: 16%;
+    margin-top: 0.6rem;
   }
 
   #perfil-dropdown {
@@ -484,9 +485,9 @@ footer {
   }
 
   .logo img {
-    width: 40%;
-    margin-left: 8%;
-    margin-top: 0.4rem;
+    width: 67%;
+    margin-left: 20%;
+    margin-top: 0.7rem;
   }
 
   .card-filme {

@@ -73,7 +73,7 @@ export default function Header() {
           }`}
           onClick={clickMenu}
         >
-          {user?.tipo === "U" ? "menu" : ""}
+          {user?.tipo === "U" ? "menu" : "|||"}
         </span>
         <menu id="itens" style={{ display: menuOpen ? "block" : "none" }}>
           <ul>
